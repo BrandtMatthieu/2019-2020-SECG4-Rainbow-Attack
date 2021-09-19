@@ -1,0 +1,8 @@
+.idea
+cmake*/
+objects/
+check-passwd*
+gen-passwd*
+hashes.txt
+passwords.txt
+log

@@ -1,0 +1,6 @@
+#ifndef INC_2020_RAINBOW_ATTACK_HELP_H
+#define INC_2020_RAINBOW_ATTACK_HELP_H
+
+void print_help();
+
+#endif //INC_2020_RAINBOW_ATTACK_HELP_H

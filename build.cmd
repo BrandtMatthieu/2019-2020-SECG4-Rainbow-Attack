@@ -1,0 +1,1 @@
+cl /O2 /favor:INTEL64 /Qpar /GL /arch:AVX2 src/config.h src/hashing_thread.cpp src/heasing_thread.h src/help.cpp src/help.h src/infos.cpp src/infos.h src/main.cpp src/sha256.cpp src/sha256.h src/synchronized_writer.cpp src/synchronized_writer.hpp src/utils.cpp src/utils.h /Fe gen_passwd.exe /std:c++17 /Wall
